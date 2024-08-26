@@ -5,8 +5,8 @@ With a passion for technology and innovation, I dedicate myself to creating digi
 Connect with me on social media:
 
 * Twitter: https://twitter.com/dferacosta.
-Facebook: https://facebook.com/dferacosta.
-Instagram: https://instagram.com/dferacosta
+* Facebook: https://facebook.com/dferacosta.
+* Instagram: https://instagram.com/dferacosta
 Truth Social: https://truthsocial.com/@dferacosta
 VK: https://vk.com/dferacosta
 LinkedIn: https://linkedin.com/in/dferacosta
