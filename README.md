@@ -1,24 +1,21 @@
-# Welcome to My GitHub Profile 👋
+I’m David, a visionary.
 
-I'm David, a passionate Web Developer contributing to the [Harmony](https://harmony.one/) project. Harmony is a fast and secure blockchain for decentralized applications, aiming to scale trust and create a radically fair economy.
+With a passion for technology and innovation, I dedicate myself to creating digital solutions that transform the way we interact with the world. My focus is on software development, operating systems, and virtual projects, constantly pushing the boundaries of what’s possible. Through my GitHub projects, I aim not only to solve problems but also to inspire others to see beyond the conventional. Join me on my journey to create a brighter and more accessible digital future for everyone.
 
-## About Harmony
-Harmony is designed to be a high-performance, scalable blockchain solution with the following key features:
-- **Decentralized:** Operates on a decentralized network with validators spread across the globe.
-- **Scalable:** Utilizes sharding to achieve high throughput and low latency.
-- **Secure:** Implements effective consensus mechanisms to ensure security.
+Connect with me on social media:
 
-## My Contributions
-I'm involved in developing and enhancing various aspects of Harmony's infrastructure and ecosystem. Here are some key projects:
-
-### Projects
-- **[Harmony Core](https://github.com/harmony-one/harmony):** The core codebase of Harmony blockchain.
-- **[Harmony Explorer](https://github.com/harmony-one/explorer):** A web-based block explorer for the Harmony network.
-- **[Harmony Wallet](https://github.com/harmony-one/wallet):** A secure wallet application for managing Harmony tokens.
-
-## Get in Touch
-- [LinkedIn](https://www.linkedin.com/in/dferacosta/)
-- [Twitter](https://x.com/dferacosta)
-- [Email](info@dferacosta.io)
-
-Feel free to explore my repositories and connect with me!
+Twitter: https://twitter.com/dferacosta
+Facebook: https://facebook.com/dferacosta
+Instagram: https://instagram.com/dferacosta
+Truth Social: https://truthsocial.com/@dferacosta
+VK: https://vk.com/dferacosta
+LinkedIn: https://linkedin.com/in/dferacosta
+Reddit: https://reddit.com/u/dferacosta
+Telegram: https://t.me/dferacosta
+Threads: https://threads.net/@dferacosta
+VeroSocial: https://vero.co/dferacosta
+Minds: https://www.minds.com/dferacosta
+TikTok: https://www.tiktok.com/@dferacosta
+Bluesky: https://bsky.app/profile/dferacosta.bsky.social
+TradingView: https://www.tradingview.com/u/dferacosta
+Pinterest: https://pinterest.com/dferacosta
