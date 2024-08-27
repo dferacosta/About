@@ -5,10 +5,10 @@ With a passion for technology and innovation, I dedicate myself to creating digi
 Connect with me on social media:
 
 * Twitter: https://twitter.com/dferacosta
-* Facebook: https://facebook.com/dferacosta
+* Facebook: https://www.facebook.com/dferacostax/
 * Instagram: https://instagram.com/dferacosta
 * Truth Social: https://truthsocial.com/@dferacosta
-* VK: https://vk.com/dferacosta
+* VK: https://vk.com/dferacostax
 * LinkedIn: https://linkedin.com/in/dferacosta
 * Reddit: https://reddit.com/u/dferacosta
 * Telegram: https://t.me/dferacosta
@@ -18,4 +18,4 @@ Connect with me on social media:
 * TikTok: https://www.tiktok.com/@dferacosta
 * Bluesky: https://bsky.app/profile/dferacosta.bsky.social
 * TradingView: https://www.tradingview.com/u/dferacosta
-* Pinterest: https://pinterest.com/dferacosta
+* Pinterest: https://pinterest.com/dferacostax
